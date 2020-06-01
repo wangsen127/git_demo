@@ -9,5 +9,7 @@ public class Hello
 		if(true){
 			System.out.println("在主分支中添加代码...");
 		}
+		System.out.println("在从分支中的修改...");
+
 	}
 }
