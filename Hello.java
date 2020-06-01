@@ -6,5 +6,8 @@ public class Hello
 		for(int i=0;i<=10;i++){
 			System.out.println("打印：" + i);
 		}
+		if(true){
+			System.out.println("在主分支中添加代码...");
+		}
 	}
 }
