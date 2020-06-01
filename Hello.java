@@ -10,6 +10,6 @@ public class Hello
 			System.out.println("在主分支中添加代码...");
 		}
 		System.out.println("在从分支中的修改...");
-
+		System.out.println("第二位开发者修改的内容....");
 	}
 }
